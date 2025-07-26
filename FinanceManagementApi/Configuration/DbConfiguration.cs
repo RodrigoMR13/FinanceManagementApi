@@ -1,4 +1,4 @@
-﻿using Infrastructure.SqlServer.Context;
+﻿using Infrastructure.Postgres.Context;
 using Microsoft.EntityFrameworkCore;
 
 namespace FinanceManagementApi.Configuration

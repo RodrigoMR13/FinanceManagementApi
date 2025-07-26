@@ -1,7 +1,7 @@
 ﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.SqlServer.Context
+namespace Infrastructure.Postgres.Context
 {
     public class FinanceDbContext : DbContext
     {
